@@ -1,0 +1,19 @@
+{
+  "name": "staking-contract-week-23",
+  "version": "1.0.0",
+  "description": "**Template repository for getting started quickly with Foundry projects**",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.2.0"
+  }
+}
